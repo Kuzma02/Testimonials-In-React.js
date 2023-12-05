@@ -4,7 +4,7 @@ import TestimonialImage2 from "../assets/testimonials-2.png";
 
 const Testimonial2 = () => {
   return (
-    <div className="custom-testimonial2 bg-white flex flex-col gap-y-10 py-5 justify-center items-center rounded-xl mx-5 px-5">
+    <div className="custom-testimonial2 bg-white flex flex-col gap-y-10 py-5 justify-center items-center rounded-xl mx-5 px-5 border">
       <div className="stars flex text-2xl mt-10">
         <FaStar className="text-yellow-400" />
         <FaStar className="text-yellow-400" />

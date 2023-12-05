@@ -1,6 +1,7 @@
 import Testimonial1 from "./Testimonial1"
 import Testimonial2 from "./Testimonial2"
 import Testimonial2Container from "./Testimonial2Container"
+import Testimonial3Container from "./Testimonial3Container"
 
 
 const Testimonials = () => {
@@ -17,8 +18,16 @@ const Testimonials = () => {
         </div>
 
         {/* Testiominal v2 */}
+        <h3 className="text-4xl text-center my-20">Testimonial v2 Single</h3>
+        <div className="flex justify-center">
+        <Testimonial2  />
+        </div>
+
         <h3 className="text-4xl text-center my-20">Testimonial v2 Grouped</h3>
         <Testimonial2Container />
+
+        <h3 className="text-4xl text-center my-20">Testimonial v3 Grouped</h3>
+        <Testimonial3Container />
     </main>
   )
 }
