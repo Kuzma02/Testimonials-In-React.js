@@ -9,7 +9,23 @@
   font-family: "Poppins", sans-serif;
 }
 
+/* Testimonial v1 */
+
 .custom-testimonial1{
   max-width: 600px;
 }
 
+
+/* Testimonial v2 */
+.custom-testimonial2-container{
+  background: rgb(63,94,251);
+background: -moz-linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f5efb",endColorstr="#fc466b",GradientType=1);
+
+}
+
+.custom-testimonial2{
+  max-width: 400px;
+}
