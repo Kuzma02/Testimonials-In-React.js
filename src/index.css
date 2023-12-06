@@ -94,3 +94,9 @@
     height: 700px;
   }
 }
+
+@media(max-width: 400px){
+  .custom-testimonial-container {
+    height: 900px;
+  }
+}

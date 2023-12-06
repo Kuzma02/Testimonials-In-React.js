@@ -12,7 +12,7 @@ const Testimonial3Container = () => {
         facere! 
       </p>
     <div className="custom-testimonial-container flex justify-center items-center">
-        <div className="custom-testimonial-content-container flex bg-white rounded-xl max-md:flex-col max-md:max-w-2xl max-md:mx-10">
+        <div className="custom-testimonial-content-container flex bg-white rounded-xl max-md:flex-col max-md:max-w-2xl max-md:mx-10 max-sm:mx-2">
             <Testimonial3 />
             <Testimonial3 />
         </div>

@@ -11,7 +11,7 @@ const Testimonial3 = () => {
         reiciendis quae omnis exercitationem.
       </p>
       <div className="flex items-center">
-        <img src={TestimonialImage3} alt="" className="w-24 rounded-full max-sm:w-16" />
+        <img src={TestimonialImage3} alt="" className="w-24 rounded-full max-sm:w-10" />
         <div className="text-left ml-2">
           <p className="font-bold max-sm:text-sm">Michael Harden</p>
           <p className="font-light max-sm:text-sm">Manager at Google</p>
